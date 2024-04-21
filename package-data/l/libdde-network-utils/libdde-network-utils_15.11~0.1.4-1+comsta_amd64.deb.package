@@ -1,0 +1,19 @@
+Package: libdde-network-utils
+Architecture: amd64
+Version: 15.11~0.1.4-1+comsta
+Priority: optional
+Section: libs
+Source: dde-network-utils
+Maintainer: listenerri <listenerri@gmail.com>
+Installed-Size: 325
+Depends: libc6 (>= 2.14), libdframeworkdbus2 (>= 6.0.0), libgcc-s1 (>= 3.3.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5network5t64 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: ./l/libdde-network-utils/libdde-network-utils_15.11~0.1.4-1+comsta_amd64.deb
+Size: 81202
+MD5sum: b1316f3d8f43ad8a41f59f78b0eabf6c
+SHA1: 021a50edc191c6ad4e31e14bd66d6366b0d266a5
+SHA256: 6fe4c658d87681daa15cb9c51ad0a4c85eb4d83e6d2257d73e5ad49f49aeca4d
+SHA512: 84e0e96ec8ac9d208e443f3f57ebd496e2045173a4c3a53b494292cefc4abcd0f7c8f7680c2cb0f26a375cca5a4f63fcdc697929795df9f472e983086043e658
+Homepage: https://github.com/linuxdeepin/dde-network-utils
+Description: DDE network utils
+ DDE network utils.
+

@@ -1,0 +1,19 @@
+Package: ttf-deepin-opensymbol
+Architecture: all
+Version: 2.2
+Priority: extra
+Section: fonts
+Maintainer: lilongyu <lilongyu@deepin.com>
+Installed-Size: 417
+Filename: ./t/ttf-deepin-opensymbol/ttf-deepin-opensymbol_2.2_all.deb
+Size: 144018
+MD5sum: 1434b825c95460b0735bf6e6e2791bb1
+SHA1: e5fe30f6b2437e201e8cac59a3e7d569a1f0c5b6
+SHA256: b59db50da513a94da93aeeabe37a1a214dc96ae99ac9f7d1ca58498d694ab260
+SHA512: 1fc75ac0aeb2fbb3111a0a7f778eca7e271472df11c736387c57ca8db75e7b2422c9f6a768c6ccd478afb3625ea5be5b43b15b1c2b6d269c738f337a1b3dbaf2
+Homepage: https://www.deepin.org/font.html
+Description: Allows you to seamlessly transit from Wingdings to Deepin OpenSymbol.
+ It is a substitution for Wingdings, which can perfectly solve the issue of displaying symbols in WPS.
+ .
+ It allows you to seamlessly transit from Wingdings to Deepin OpenSymbol.
+

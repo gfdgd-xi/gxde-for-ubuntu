@@ -1,0 +1,22 @@
+Package: libdwayland-doc
+Architecture: all
+Version: 5.25.0-kwayland.5.24.3
+Multi-Arch: foreign
+Priority: optional
+Section: doc
+Source: dwayland
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 770
+Filename: ./l/libdwayland-doc/libdwayland-doc_5.25.0-kwayland.5.24.3_all.deb
+Size: 518636
+MD5sum: b732b8f0eee1fbb55b33bb7a4d43838c
+SHA1: 812f415efb3b63c85ea937322e9b84c572c42e65
+SHA256: 2d816fda31b3c48db23f9dceb773c07ff6457709d4ad3bf930602d9cfd7cadcf
+SHA512: 8561f765c793a045d1373b7bb83c62bfde8a908bc6d0ead69d91d17007399773ad05170263a784e6c8355e5cdef0d100d901ad7111b24e882fef975236260e88
+Homepage: https://invent.kde.org/plasma/kwayland-server
+Description: Qt library wrapper for Wayland libraries (documentation)
+ DWayland provides a Qt-style Client and Server library wrapper for
+ the Wayland libraries.
+ .
+ This package contains the qch documentation files.
+

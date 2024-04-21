@@ -1,0 +1,21 @@
+Package: libdtkwidget-bin
+Architecture: amd64
+Version: 15.11~2.2.1+rebuild-1
+Priority: optional
+Section: libdevel
+Source: dtkwidget2
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 33
+Depends: libc6 (>= 2.34), libdtkwidget2 (= 15.11~2.2.1+rebuild-1), libgcc-s1 (>= 3.3.1), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 4.1.1), qtmultimedia5-dev, libqt5x11extras5-dev, libdtkcore2-dev, libqt5svg5-dev
+Filename: ./l/libdtkwidget-bin/libdtkwidget-bin_15.11~2.2.1+rebuild-1_amd64.deb
+Size: 8766
+MD5sum: 4afe99c0347ada4a2c5b6643ff116b36
+SHA1: 7f593f3f7211dd1850465a6f96b2b4ff3840eb65
+SHA256: bbf899c7aa2b0067ffa1e5eaad2c9854aed25de333efd58abfd51e1f22cc486a
+SHA512: 37809341468fe15ebe54d0d009131f6a06aedbe14ebf4a73cc9bd9eec74171a6e4a87dddb3e0e593e7aa8953368d13f4bcb3de662f18384b4d2f428f3e9b3203
+Description: Deepin graphical user interface library utilities
+ DtkWidget is Deepin graphical user interface for deepin desktop development.
+ .
+ This package contains the utilities which are
+ needed for developing Deepin applications.
+

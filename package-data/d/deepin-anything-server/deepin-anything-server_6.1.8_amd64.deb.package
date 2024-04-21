@@ -1,0 +1,19 @@
+Package: deepin-anything-server
+Architecture: amd64
+Version: 6.1.8
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 328
+Depends: deepin-anything-libs, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libmount1 (>= 2.24.2), libnl-3-200 (>= 3.2.7), libnl-genl-3-200 (>= 3.2.7), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libstdc++6 (>= 13.1), libudisks2-qt5-0 (>= 5.0.6), deepin-anything-dkms
+Filename: ./d/deepin-anything-server/deepin-anything-server_6.1.8_amd64.deb
+Size: 98542
+MD5sum: 365802f870ab34440179b3b5b351fda8
+SHA1: 9f9dad9a8933e56b47a13d69e22c466e3e3a53b2
+SHA256: 1f7f6e5b90ed67ea9d98ea8c7e264a2a83c545af82bf09d8e9016cf9f4ee0df9
+SHA512: 0b2eff1e56e50ea6cefd0650823bd07e1a52f95539a61e016d3aca6f533fbd877005c419cfe1664ec6a03c45a627d6c1badb7c176e25ab89899d52b78bb3c470
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything server application and lib
+ anything server package
+

@@ -1,0 +1,18 @@
+Package: deepin-installer-timezones
+Architecture: all
+Version: 2.7.19gxde1
+Priority: extra
+Section: utils
+Source: deepin-installer-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>, Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 546
+Filename: ./d/deepin-installer-timezones/deepin-installer-timezones_2.7.19gxde1_all.deb
+Size: 63694
+MD5sum: e5dbc41bb9c2a24297fa58f7a3679733
+SHA1: a89ebe2d9e955900a4144b744510b03418b4d0eb
+SHA256: 343fdc88136c83792040b853a5295e384b87052ff36d35df38286e883255bdc8
+SHA512: 0303323e3260c6d3457ef24e949e3710f0bba91fa9e9e2cf291890528ce42bf864eb879ca68555242150d28333176b98a9e0497e904cb323ab3c744d26e85659
+Homepage: http://www.gfdgdxi.top
+Description: Language package for timezone names
+ Installer language package for timezone names
+

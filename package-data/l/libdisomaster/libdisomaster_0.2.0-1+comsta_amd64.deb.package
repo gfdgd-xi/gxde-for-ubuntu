@@ -1,0 +1,18 @@
+Package: libdisomaster
+Architecture: amd64
+Version: 0.2.0-1+comsta
+Priority: optional
+Section: libs
+Source: disomaster
+Maintainer: Chris Xiong <chirs241097@gmail.com>
+Installed-Size: 70
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libisoburn1t64 (>= 1.5.6), libqt5core5t64 (>= 5.15.1), libstdc++6 (>= 5.2)
+Filename: ./l/libdisomaster/libdisomaster_0.2.0-1+comsta_amd64.deb
+Size: 20590
+MD5sum: 85d72ed2898f3f42b2989d6200ece08a
+SHA1: 8c4712e28961f34f1f7d36dc4f0fac34907fab99
+SHA256: fc7cdccc75131c90a20a9e683bcf1f0bf567658304319461653a2de3b03db956
+SHA512: e4fe1f26106261d839f3365ebd15eb71daf9a485ae627e71441dc00e8605727109758905da79ef51118f7e66495e329b2cded179e604680e29a52fb4e450325d
+Homepage: https://github.com/linuxdeepin/disomaster
+Description: libisoburn wrapper for Qt.
+

@@ -1,0 +1,18 @@
+Package: fantascene-gxde
+Architecture: amd64
+Version: 1.7.0
+Priority: optional
+Section: application
+Maintainer: liuminghang <liuminghang0821@gmail.com>
+Installed-Size: 7684
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libmpv2 (>= 0.29), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5sql5t64 (>= 5.0.2), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5t64 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 13.1), libx11-6, libxcb-ewmh2 (>= 0.4.1), libxcb1, libxext6
+Recommends: libqt5libqgtk2, kimageformat-plugins
+Filename: ./f/fantascene-gxde/fantascene-gxde_1.7.0_amd64.deb
+Size: 6095438
+MD5sum: 5b7910e5b48d0964061be85f970393ba
+SHA1: 0d3509cf3b4bbbea44a89aa460b9849b4d202b49
+SHA256: 37912d2946185534adbee34e85b7a174a0d514fd4084f51b1e630ade89103d84
+SHA512: c4a428caa229a90347a2e3b4d7192e99da1b1ed4bd466e8d33b76a75ab64bdf2c278d9c6e95da51a80ed22bbe3f275b3d849a8c6c9961c21aebbddbe0f173c6d
+Homepage: http://github.com/dependon
+Description: video wallpaper for fantascene.
+
