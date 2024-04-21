@@ -1,0 +1,18 @@
+Package: gxde-dock-weather
+Architecture: amd64
+Version: 6.3.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 728
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 5.2), dde-dock, libdtkwidget5, libdtkcore5
+Filename: ./g/gxde-dock-weather/gxde-dock-weather_6.3.0_amd64.deb
+Size: 305580
+MD5sum: 68a8614a6d45fa37b4ef2f6f8675dcc4
+SHA1: e9fd1e72c68b8dafe4c2c3d4eb44a5193fad5873
+SHA256: 8df01fc40c3c4e1233a373319fd9a99e02c776e6ae0c0b25729b15bec44d6821
+SHA512: 8bb8c3aa33b972e8924ca66bbba10b161974f64c3ed5ae35f0e8ee32762c672386ff398981e3a06d91f633e3098021a28f163c54e244c0a1f0a367d90e055738
+Homepage: https://gitee.com/GXDE-OS/gxde-dock-weather
+Description: GXDE Dock weather forcast plugin.
+

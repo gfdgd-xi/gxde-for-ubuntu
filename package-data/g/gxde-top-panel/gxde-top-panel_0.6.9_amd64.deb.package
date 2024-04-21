@@ -1,0 +1,18 @@
+Package: gxde-top-panel
+Architecture: amd64
+Version: 0.6.9
+Priority: Optional
+Section: utils
+Maintainer: gfdgd xi
+Installed-Size: 19603
+Depends: libqt5dbus5, libqt5core5a, libqt5gui5, libxcb-ewmh2, libxcb1, libdframeworkdbus2,
+         libdtkcore5-bin, libkf5windowsystem5, libqt5svg5, libqt5concurrent5, libgsettings-qt1, libxcb-util1
+Conflicts: dde-top-panel
+Filename: ./g/gxde-top-panel/gxde-top-panel_0.6.9_amd64.deb
+Size: 8478050
+MD5sum: a38c8147093d20c39ff4dd808800f69c
+SHA1: 8c2ffbcf3d6428cea1d0dbdc6083886de16fb01f
+SHA256: 14738ade3eb40adc43f006107a82680b0ca6ca05cb8edf02323fe97397fdc847
+SHA512: ea2269683e60ecf1ff4ac0bab57bfd025506abadf5c24ac2c144eeda48f5d1315ac05214c9bec88578a21913ae6e51d0f51b1d5112debeb08965988723a3053b
+Description: GXDE Top Panel is a top bar supporting the global menu for GXDE
+
